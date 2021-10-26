@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href=""><img src="" alt="LinkedIn" /></a>&nbsp;
-<a href=""><img src="" alt="Portfolio" /></a>&nbsp;
+<a href="http://rafaelortegaweb.es"><img src="https://img.shields.io/badge/-Portafolio-green" alt="Portfolio" /></a>&nbsp;
 <a href=""><img src="" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/raortega8906"><img src="https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Ftwitter.com%2Fraortega8906l" alt="Twitter" /></a>&nbsp;
 </p>
