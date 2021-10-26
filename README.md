@@ -10,7 +10,7 @@
 
 <br />
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="center"> Lenguajes y Herramientas</h3>
 </p>
 <br />
 <p align="center">
