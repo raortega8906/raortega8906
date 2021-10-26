@@ -1,5 +1,7 @@
 ### Hola 👋🏽, soy Rafa 👨🏽‍💻
 
+![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fraortega8906)
+
 <!--
 **raortega8906/raortega8906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
