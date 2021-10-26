@@ -5,7 +5,7 @@
 <a href=""><img src="" alt="LinkedIn" /></a>&nbsp;
 <a href=""><img src="" alt="Portfolio" /></a>&nbsp;
 <a href=""><img src="" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/raortega8906"><img src="![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fraortega8906)" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/raortega8906"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter" /></a>&nbsp;
 </p>
 <br />
 
