@@ -15,13 +15,13 @@
 <br />
 
 <p align="center">
-  <img width="400" src="" />
-  <img width="400" src="" />
-  <a href="">
-    <img align="" src="" />
+<!--   <img width="400" src="" />
+  <img width="400" src="" /> -->
+  <a href="https://github.com/raortega8906/mini-crm">
+<!--     <img align="" src="" /> -->
   </a>
   <a href="">
-    <img align="" src="" />
+<!--     <img align="" src="" /> -->
   </a> 
 </p>
 <br />
