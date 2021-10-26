@@ -8,7 +8,7 @@
 </p>
 <br />
 
-<p>Ingeniero Informático.</p>
+<p>Ingeniero Informático. Amante del desarrollo web back-end. Desde el 2020 usando Laravel</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -17,7 +17,7 @@
 <p align="center">
 <!--   <img width="400" src="" />
   <img width="400" src="" /> -->
-  <a href="https://github.com/raortega8906/mini-crm">
+  <a href="https://github.com/raortega8906/mini-crm">a
 <!--     <img align="" src="" /> -->
   </a>
   <a href="">
