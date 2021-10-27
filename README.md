@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hola. Soy Rafa 👨🏽‍💻</h1>
+  <h1 align="center"><b>Hola. Soy Rafa 👋🏽👨🏽‍💻</h1>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-a-ortega-valderrama-ab7a1aa8/">
