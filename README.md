@@ -8,10 +8,10 @@
   </a>&nbsp;
 </p>
 
-<!-- <br />
+<br />
 <p>
 <h3 align="center"> Lenguajes y Herramientas</h3>
-</p> -->
+</p>
 <br />
 <p align="center">
   <a href="#">
@@ -28,6 +28,9 @@
   </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
