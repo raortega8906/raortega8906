@@ -12,7 +12,7 @@
 
 <br />
 <p>
-<h3 align="center"> Lenguajes y Herramientas</h3>
+<h3 align="center"> Lenguajes y herramientas que utilizo:</h3>
 </p>
 <br />
 <p align="center">
