@@ -32,7 +32,9 @@
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
   </a>
-  
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitaloceann" width="40" height="40"/>
+  </a>
 </p>
 
 <!--
