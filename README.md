@@ -8,10 +8,10 @@
   </a>&nbsp;
 </p>
 
-<br />
+<!-- <br />
 <p>
 <h3 align="center"> Lenguajes y Herramientas</h3>
-</p>
+</p> -->
 <br />
 <p align="center">
   <a href="#">
