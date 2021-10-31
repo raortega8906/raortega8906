@@ -43,10 +43,6 @@
 </p>
 
 <!--
-### Hola 👋🏽, soy Rafa 👨🏽‍💻
-
-![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https://twitter.com/raortega8906)
-
 **raortega8906/raortega8906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
