@@ -37,9 +37,9 @@
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionos/ionos-original.svg" alt="ionos" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <!--
