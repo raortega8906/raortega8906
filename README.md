@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hola 👋🏽. Soy Rafa 👨🏽‍💻</h1>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-a-ortega-ab7a1aa8/">
+  <a href="https://www.linkedin.com/in/rafael-a-ortega/">
     <img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafael-a-ortega-valderrama-ab7a1aa8%2F" alt="LinkedIn" />
   </a> 
   <a href="http://rafaelortegaweb.wpcache.es">
