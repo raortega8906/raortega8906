@@ -1,43 +1,25 @@
-<p>
-  <h1 align="center"><b>Hola 👋🏽. Soy Rafa 👨🏽‍💻</h1>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-a-ortega/">
-    <img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafael-a-ortega-valderrama-ab7a1aa8%2F" alt="LinkedIn" />
-  </a> 
-  <a href="http://rafaelortegaweb.wpcache.es">
-    <img src="https://img.shields.io/badge/-Portafolio-green" alt="Portfolio" />
-  </a> 
-</p>
+<div align="center">
+  <h1><b>Hello 👋🏽. I'm Rafa 👨🏽‍💻</b></h1>
 
-<br>
-<p>
-<h3 align="center"> Lenguajes y herramientas que utilizo:</h3>
-</p>
-<br>
-
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-<!--
-**raortega8906/raortega8906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>🌐 Socials:</h2>
+  <a href="https://linkedin.com/in/rafael-a-ortega/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br>
+  <br>
+  <h2>💻 Tech Stack:</h2>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <br>
+  <br>
+  <h2>📊 GitHub Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=raortega8906&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raortega8906&theme=dark&hide_border=false" alt="GitHub Streak Stats"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raortega8906&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
