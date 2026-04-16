@@ -1,14 +1,13 @@
 <div align="center">
 
 <h1>Hey, I'm Rafa 👋</h1>
-<p><em>Full-stack developer · PHP / Laravel / WordPress · JavaScript / Astro</em></p>
 
+<p><em>Full-stack developer · PHP / Laravel / WordPress · JavaScript / Astro</em></p>
 
 
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-a-ortega/)
-
 
 
 ### 💻 Tech Stack
@@ -21,7 +20,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
 
 
 ### 📊 GitHub Stats
