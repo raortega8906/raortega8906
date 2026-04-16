@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hey, I'm Rafa 👋</h1>
-<p><em>Full-stack developer · PHP / Laravel · JavaScript / Astro</em></p>
+<p><em>Full-stack developer · PHP / Laravel / WordPress · JavaScript / Astro</em></p>
 
 ---
 
